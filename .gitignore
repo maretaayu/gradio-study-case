@@ -1,0 +1,8 @@
+
+
+# Ignore virtual environments and other unnecessary stuff
+/myenv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
